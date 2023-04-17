@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Este é um clone do Twitter feito como um projeto de prática para desenvolvimento web. O objetivo deste projeto é aprimorar minhas habilidades em HTML, CSS e JavaScript e PHP.
+Este é um clone do Twitter feito como um projeto de prática para desenvolvimento web. O objetivo deste projeto é aprimorar minhas habilidades em HTML, CSS e PHP.
 
 ## Como executar o projeto
 
@@ -24,7 +24,6 @@ Para executar o projeto, siga estas etapas:
 ## Tecnologias utilizadas
 - HTML
 - CSS
-- JavaScript
 - PHP
 
 ## Contribuindo com o desenvolvimento do projeto
